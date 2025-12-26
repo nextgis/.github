@@ -2,7 +2,7 @@
 
 ## About Us
 
-<!-- Add a brief description of your organization here -->
+Open source geospatial developer and solution provider. Full stack.
 
 ## 🚀 What We Do
 
@@ -19,3 +19,4 @@
 ## 📫 Get in Touch
 
 <!-- Add contact information or links to social media/community channels -->
+
