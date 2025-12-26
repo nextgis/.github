@@ -46,11 +46,11 @@
 
 |Project                                                        |Description                                                     |Language/License   |Popularity|
 |---------------------------------------------------------------|----------------------------------------------------------------|-------------------|----------|
-|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Server-side Web GIS framework                                   |TypeScript, GPL-3.0|<picture><img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars"></picture>|
-|[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click|Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars"></picture>|
-|[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                     |Java, GPL-3.0      |<picture><img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars"></picture>|
-|[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: modules for Land Use Change Simulations            |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars"></picture>|
-|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing Web GIS resources                         |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
+|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Server-side Web GIS framework                                   |TypeScript, GPL-3.0|<picture><img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars" style="vertical-align: middle;"></picture>|
+|[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click|Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars" style="vertical-align: middle;"></picture>|
+|[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                     |Java, GPL-3.0      |<picture><img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars" style="vertical-align: middle;"></picture>|
+|[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: modules for Land Use Change Simulations            |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars" style="vertical-align: middle;"></picture>|
+|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing Web GIS resources                         |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars" style="vertical-align: middle;"></picture>|
 
 [View all 300+ repositories →](https://github.com/nextgis)
 
