@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/nextgis-logo.png" alt="NextGIS — All-in-one GIS platform" />
+  <picture><img src="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/nextgis-logo.png" alt="NextGIS — All-in-one GIS platform"></picture>
 </p>
 
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://nextgis.com/"><img src="https://img.shields.io/badge/nextgis.com-Official_Website-176FC1?style=for-the-badge" alt="Website"/></a>
-  <a href="https://docs.nextgis.com/"><img src="https://img.shields.io/badge/Documentation-176FC1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"/></a>
+  <a href="https://nextgis.com/"><img src="https://img.shields.io/badge/nextgis.com-Official_Website-176FC1?style=for-the-badge" alt="Website"></a>
+  <a href="https://docs.nextgis.com/"><img src="https://img.shields.io/badge/Documentation-176FC1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"></a>
 </p>
 
 <br>
@@ -46,11 +46,11 @@
 
 |Project                                                        |Description                                                     |Language/License   |Popularity|
 |---------------------------------------------------------------|----------------------------------------------------------------|-------------------|----------|
-|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Server-side Web GIS framework                                   |TypeScript, GPL-3.0|<img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars">|
-|[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click|Python, GPL-2.0    |<img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars">|
-|[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                     |Java, GPL-3.0      |<img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars">|
-|[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: modules for Land Use Change Simulations            |Python, GPL-2.0    |<img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars">|
-|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing Web GIS resources                         |Python, GPL-2.0    |<img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars">|
+|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Server-side Web GIS framework                                   |TypeScript, GPL-3.0|<picture><img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars"></picture>|
+|[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click|Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars"></picture>|
+|[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                     |Java, GPL-3.0      |<picture><img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars"></picture>|
+|[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: modules for Land Use Change Simulations            |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars"></picture>|
+|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing Web GIS resources                         |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
 
 [View all 300+ repositories →](https://github.com/nextgis)
 
