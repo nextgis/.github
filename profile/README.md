@@ -52,7 +52,7 @@
 |[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: modules for Land Use Change Simulations            |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars"></picture>|
 |[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing Web GIS resources                         |Python, GPL-2.0    |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
 
-[View all 300+ repositories →](https://github.com/nextgis)
+[View all 300+ repositories →]([https://github.com/nextgis](https://github.com/orgs/nextgis/repositories?type=all))
 
 <br>
 
