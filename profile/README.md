@@ -1,12 +1,11 @@
 <br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nextgis/.github/main/assets/nextgis-logo.png" alt="NextGIS — All-in-one GIS platform" />
+  <img src="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/nextgis-logo.png" alt="NextGIS — All-in-one GIS platform" />
 </p>
 
 <p align="center">
   <b>All-in-one GIS platform for maps and geodata</b><br>
-
 </p>
 
 <p align="center">
@@ -17,10 +16,10 @@
 <br>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextgis/.github/main/assets/dark-banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextgis/.github/main/assets/light-banner.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/dark-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/light-banner.png">
     <img
-      src="https://raw.githubusercontent.com/nextgis/.github/main/assets/light-banner.svg" 
+      src="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/light-banner.png" 
       alt="NextGIS Banner" 
       width="100%" 
       style="max-width: 1280px;"
