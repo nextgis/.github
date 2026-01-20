@@ -16,10 +16,10 @@
 <br>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/dark-banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="/profile/assets/light-banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/assets/light.png">
     <img
-      src="/profile/assets/light-banner.png" 
+      src="/profile/assets/light.png" 
       alt="NextGIS Banner" 
       width="100%" 
       style="max-width: 1280px;"
