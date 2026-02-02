@@ -41,17 +41,19 @@
 - Build Your Own Apps
 - Basemaps on Your Own Server
 
+With NextGIS software you can turn your QGIS team into a collaboration powerhouse
+
 <br>
 
 ## Main open source projects
 
-|Project                                                        |Description                                                                              |Language/License   |Popularity|
-|---------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------|----------|
-|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Web GIS with a built-in web interface for publishing and managing interactive web maps   |Python/TypeScript, GPL-3.0  |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars"></picture>|
-|[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click                         |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars"></picture>|
-|[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                                              |Java, GPL-3.0               |<picture><img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars"></picture>|
-|[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: Modules for Land Use Change Simulations                                     |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars"></picture>|
-|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing NextGIS Web resources                                              |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
+|Project                                                        |Description                                                                                     |Language/License            |Popularity                                                                     |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------|
+|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Web GIS server with a built-in web interface for publishing and managing interactive web maps   |Python/TypeScript, GPL-3.0  |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars"></picture>|
+|[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click                                |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars"></picture>|
+|[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                                                     |Java, GPL-3.0               |<picture><img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars"></picture>|
+|[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: Modules for Land Use Change Simulations                                            |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars"></picture>|
+|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing NextGIS Web resources                                                     |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
 
 [View all 250+ repositories →](https://github.com/orgs/nextgis/repositories?type=all)
 
@@ -60,8 +62,8 @@
 ## Contact us
 
 📧 [**info@nextgis.com**](mailto:info@nextgis.com)  
-📱 **Telegram:** [@nextgis_talks](https://t.me/nextgis_talks)  
-💬 **Forum:** [community.nextgis.com](https://community.nextgis.com/)
+💬 **Community forum:** [community.nextgis.com](https://community.nextgis.com/)  
+📞 **Other ways to contact:** [nextgis.com/contact](https://nextgis.com/contact)
 
 <br><br>
 
