@@ -53,7 +53,7 @@ With NextGIS software you can turn your QGIS team into a collaboration powerhous
 |[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click                                |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars"></picture>|
 |[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                                                     |Java, GPL-3.0               |<picture><img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars"></picture>|
 |[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: Modules for Land Use Change Simulations                                            |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars"></picture>|
-|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: managing NextGIS Web resources                                                     |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
+|[nextgis_connect](https://github.com/nextgis/nextgis_connect)  |QGIS plugin: transform QGIS into a collaborative workspace                                      |Python, GPL-2.0             |<picture><img src="https://img.shields.io/github/stars/nextgis/nextgis_connect?style=social" alt="GitHub stars"></picture>|
 
 [View all 250+ repositories →](https://github.com/orgs/nextgis/repositories?type=all)
 
