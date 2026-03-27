@@ -47,13 +47,13 @@ With NextGIS software you can turn your QGIS team into a collaboration powerhous
 
 ## Main open source projects
 
-|Project                                                                        |Description                                                                                                                                  |Language/License            |
-|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------|
-|[nextgisweb](https://github.com/nextgis/nextgisweb)                            |Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows.                     |Python/TypeScript, GPL-3.0  |
-|[nextgis_connect](https://github.com/nextgis/nextgis_connect)                  |QGIS plugin: transform QGIS into a collaborative workspace                                                      |Python, GPL-2.0  |
-|[nextgis_mobile_android](https://github.com/nextgis/nextgis_mobile_android)    |GIS application for Android, designed for field data collection, offline mapping, and real-time synchronization with NextGIS Web. |Java, GPL-3.0               |
-|[quickmapservices](https://github.com/nextgis/quickmapservices)                |QGIS plugin: find and add map services to a project in one click                                                |Python, GPL-2.0  |
-|[qgis_molusce](https://github.com/nextgis/qgis_molusce)                        |QGIS plugin: Modules for Land Use Change Simulations                                                            |Python, GPL-2.0  |
+|Project                                                                        |Description                                                                                                                       |Language/License           | 
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+|[nextgisweb](https://github.com/nextgis/nextgisweb)                            |Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows                      |Python/TypeScript, GPL-3.0 |
+|[nextgis_connect](https://github.com/nextgis/nextgis_connect)                  |QGIS plugin: transform QGIS into a collaborative workspace                                                                        |Python, GPL-2.0            |
+|[nextgis_mobile_android](https://github.com/nextgis/nextgis_mobile_android)    |GIS application for Android, designed for field data collection, offline mapping, and real-time synchronization with NextGIS Web  |Java, GPL-3.0              |
+|[quickmapservices](https://github.com/nextgis/quickmapservices)                |QGIS plugin: find and add map services to a project in one click                                                                  |Python, GPL-2.0            |
+|[qgis_molusce](https://github.com/nextgis/qgis_molusce)                        |QGIS plugin: Modules for Land Use Change Simulations                                                                              |Python, GPL-2.0            |
 
 [View all 250+ repositories →](https://github.com/orgs/nextgis/repositories?type=all)
 
